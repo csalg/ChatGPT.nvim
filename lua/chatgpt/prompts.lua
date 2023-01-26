@@ -125,7 +125,7 @@ end
 
 local M = {}
 
-M.URL = "https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/prompts.csv"
+M.URL = "https://raw.githubusercontent.com/csalg/awesome-chatgpt-prompts/main/prompts.csv"
 
 function M.selectAwesomePrompt(opts)
   opts = opts or {}
